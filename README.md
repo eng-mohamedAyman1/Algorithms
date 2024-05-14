@@ -1,4 +1,6 @@
-# sc
+# Cryptography-_Algorithms
+A new Flutter project.
+Provides explanations and practical applications of popular encryption algorithms such as DES, AES, and RSA. It allows you to test algorithms with your own inputs and see their outputs.
 
 A new Flutter project.
 
